@@ -42,7 +42,7 @@ Used various visualization types such as bar chart, pie chart, donut chart, line
 To analyze ecommerce sales data and provide meaningful business insights to improve decision-making and profitability.
 
 ## Dashboard Preview
-Image (
+Image (https://github.com/Kalpana-gupta05/Ecommerce-Sales-Analysis-PowerBI-Dashboard/blob/6830f0f82903c5bf1caccdb079e98d18828e7177/Screenshot%20(2).png)
 
 ## Author 
 Kalpana Gupta
