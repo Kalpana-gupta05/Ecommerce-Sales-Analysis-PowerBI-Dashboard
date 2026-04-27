@@ -6,7 +6,7 @@ This project is an end-to-end analysis dashboard built using Power BI.
 It provide insights into ecommerce sales performance, customer behavior, and profit trends using interactive visualizations.
 
 ## Dashboard Highlights
--Total Sales Amount: 438k
+- Total Sales Amount: 438k
 - Total Profit: 37k
 - Toal Quantity Sold: 5615
 - Average Order Value(AOV): 121k
